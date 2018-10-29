@@ -14,3 +14,4 @@ node index
   - benvがdocumentsとかをwrapしてくれるらしい
 
 - `gulp-jsdoc3`->`gulp-html-beautify`(`preserve_newlines: false`)->`breakdance`のコンボがなかなかよかった
+  - なぜか `gulp-breakdance` はうまく動かなかった
