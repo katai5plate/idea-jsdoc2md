@@ -12,3 +12,5 @@ node index
 - github上で見るのは辛いものがありそうなので、運用するならgh-pages化が妥当か
 - https://github.com/leeoniya/reMarked.js がnodeで使えればなぁ
   - benvがdocumentsとかをwrapしてくれるらしい
+
+- `gulp-jsdoc3`->`gulp-html-beautify`(`preserve_newlines: false`)->`breakdance`のコンボがなかなかよかった
